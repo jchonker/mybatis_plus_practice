@@ -1,0 +1,5 @@
+com.zhu.mybatisplus包下的内容是测试mybatisplus的各种对表的操作方法
+com.zhu.reverseEngineer包下的内容是测试mybatisplus的逆向工程
+    MyBatis 的代码生成器基于xml文件进行生成，可生成: 实体类、Mapper 接口、Mapper 映射文件。
+    MP 的代码生成器基于Java代码进行生成，可生成:
+    实体类(可以选择是否支持 AR)、Mapper 接口、Mapper 映射文件、 Service 层、Controller 层。
